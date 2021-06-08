@@ -1,0 +1,3 @@
+[submodule "BashCode"]
+	path = BashCode
+	url = https://github.com/KvitkovIgor/BashCode
